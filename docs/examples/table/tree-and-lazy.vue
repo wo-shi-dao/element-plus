@@ -76,9 +76,6 @@ const tableData: User[] = [
   },
   {
     id: 3,
-    date: '2016-05-01',
-    name: 'wangxiaohu',
-    address: 'No. 189, Grove St, Los Angeles',
     children: [
       {
         id: 31,
